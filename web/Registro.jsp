@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Formulario de registro</h1>
-        <form action="" method="post">
+        <form action="nuevoUsuario" method="post">
             <label>Usuario</label>
             <input type="text" name="Usuario"/><br>
             <label>Nombre</label>
